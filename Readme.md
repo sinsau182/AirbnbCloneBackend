@@ -17,4 +17,5 @@ CLOUDINARY_NAME= your secret session
 CLOUDINARY_API_KEY= your cloudinary key
 
 CLOUDINARY_API_SECRET= your cloudinary api secret
-CLIENT_URL= http://localhost:5173
+
+CLIENT_URL= frontend url
